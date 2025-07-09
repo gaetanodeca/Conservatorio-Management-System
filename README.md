@@ -1,6 +1,6 @@
 ![Logo DIETI](https://github.com/user-attachments/assets/b7927067-e6cc-465f-ad9f-895c19b598e1)
 
-# Conservatorio-Management-Software
+# Conservatory-Management-Software
 
 Progetto di Ingegneria del Software a.a. 2024/2025, seguito dalla prof. A.R. Fasolino
 
