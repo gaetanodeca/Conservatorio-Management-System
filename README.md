@@ -8,7 +8,7 @@ Progetto di Ingegneria del Software a.a. 2024/2025, seguito dalla prof. A.R. Fas
 
 Si vuole realizzare un sistema per la gestione dei corsi di laurea al conservatorio.
 
-# DEMO
+# LOGO
 
 <img src="https://github.com/user-attachments/assets/81272b3b-a7c1-4cd7-a606-9f6e00577a5e" width="600" alt="Logo del Software">
 
