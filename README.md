@@ -12,6 +12,7 @@ Si vuole realizzare un sistema per la gestione dei corsi di laurea al conservato
 
 ![Logo del Software](https://github.com/user-attachments/assets/81272b3b-a7c1-4cd7-a606-9f6e00577a5e)
 <img src="https://github.com/user-attachments/assets/81272b3b-a7c1-4cd7-a606-9f6e00577a5e" width="400" height="200" alt="Logo del Software">
+<img src="https://github.com/user-attachments/assets/81272b3b-a7c1-4cd7-a606-9f6e00577a5e" width="600" alt="Logo del Software">
 
 ## TECNOLOGIE UTILIZZATE
 - **IDE**: 
